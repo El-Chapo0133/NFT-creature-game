@@ -1,0 +1,12 @@
+SOME IDEAS FOR THE PROJECT
+
+
+1. use attributes for creatures
+- name
+- gender
+- parents [Object Creature]
+- stats [Object Stat]
+- experiences [int]
+- type
+- items
+- 
