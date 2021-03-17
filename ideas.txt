@@ -9,4 +9,13 @@ SOME IDEAS FOR THE PROJECT
 - experiences [int]
 - type
 - items
-- 
+
+creatures can have problems in a random time
+
+
+2. stats have many attributes
+- heredity [strict,non-strict,none]
+ - strict means both need this stat
+ - non-strict means only one need this
+ - none means it not hereditary
+- effect (eg: will grow faster and stronger)
